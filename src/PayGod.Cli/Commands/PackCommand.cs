@@ -113,7 +113,7 @@ cases:
         - field: "reason"
           operator: "contains"
           value: "Blocked by policy"
-""";
+"""
 
         var readme = $$"""
 # {{name}} (Pack)
