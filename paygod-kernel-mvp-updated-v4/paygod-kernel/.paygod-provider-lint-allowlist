@@ -1,4 +1,0 @@
-# Allowlist for provider lint in packs/core
-# Format:
-#  <glob>            (ignore entire file)
-#  <glob>::<token>   (allow token in specific files)
